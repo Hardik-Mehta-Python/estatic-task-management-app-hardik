@@ -178,6 +178,20 @@ The client will start on `http://localhost:5173` (or another port if 5173 is bus
 - `PUT /api/tasks/:id` - Update a task
 - `DELETE /api/tasks/:id` - Delete a task
 
+## Screenshots
+
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/acb41c9a-8c64-4ef2-9bd1-4a2f0decc149" />
+<img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/436432b3-c2a9-4e3e-a585-0dbd667265ce" />
+<img width="1918" height="1046" alt="image" src="https://github.com/user-attachments/assets/6417c20a-ba90-4226-ba40-aae62703e781" />
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/2b700710-5d46-440c-acbc-5269359aa943" />
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/022f78a4-a116-4ba3-b846-a1b479f30788" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/7f0f5418-3fb6-41c5-9470-aba5bc8132f6" />
+<img width="1913" height="1035" alt="image" src="https://github.com/user-attachments/assets/baba39f4-1e3f-45a0-9f94-0210652b9a8d" />
+<img width="1914" height="1018" alt="image" src="https://github.com/user-attachments/assets/ef66c4d9-25ff-459d-a5c1-8792f041c4d2" />
+
+
+
+
 ## Future Enhancements
 
 - User authentication with JWT
