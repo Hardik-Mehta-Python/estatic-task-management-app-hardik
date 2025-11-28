@@ -11,7 +11,7 @@ const DATA_FILE = path.join(__dirname, 'tasks.json');
 app.use(cors());
 app.use(bodyParser.json());
 
-// Helper functions for file I/O
+
 const readTasks = () => {
     try {
         if (!fs.existsSync(DATA_FILE)) {
@@ -41,7 +41,7 @@ const getNextId = (tasks) => {
     return Math.max(...tasks.map(t => t.id)) + 1;
 };
 
-// Routes
+
 
 // GET all tasks
 app.get('/api/tasks', (req, res) => {
