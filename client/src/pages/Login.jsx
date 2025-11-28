@@ -8,7 +8,7 @@ const Login = () => {
 
     const handleLogin = (e) => {
         e.preventDefault();
-        // Mock login - just redirect to home
+        
         if (username && password) {
             navigate('/home');
         } else {

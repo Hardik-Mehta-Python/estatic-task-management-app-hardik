@@ -5,7 +5,7 @@ const TaskForm = () => {
     const [title, setTitle] = useState('');
     const [description, setDescription] = useState('');
     const navigate = useNavigate();
-    const { id } = useParams(); // If id exists, we are in edit mode
+    const { id } = useParams(); 
 
     useEffect(() => {
         if (id) {

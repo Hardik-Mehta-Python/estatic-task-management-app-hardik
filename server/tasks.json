@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": 2,
+    "title": "While loop",
+    "description": "Complete a while loop in python",
+    "completed": false
+  }
+]
